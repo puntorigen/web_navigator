@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+instructor
+python-dotenv
+openai
+playwright
+Pillow
+python-ghost-cursor
+playwright-stealth
